@@ -1,0 +1,98 @@
+.hero{
+    height:100vh;
+    background:linear-gradient(180deg,#FFDAB9, #FFFFFF 60%);
+    display:flex;
+}
+.hero-left
+{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:20px;
+    padding-left: 180px;
+    line-height: 1.1;
+}
+.hero-left h2
+{
+    color: #090909;
+    font-size: 26px;
+    font-weight: 600;
+}
+.hero-left p
+{
+    color: #171717;
+    font-size: 70px;
+    font-weight: 700;
+}
+.hero-hand-icon
+{
+    display:flex;
+    align-items: center;
+    gap: 10px;
+}
+.hero-hand-icon img
+{
+    width: 105px;
+}
+.hero-latest-btn1111
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 70px;
+    border-radius: 75px;
+    margin-top: 30px;
+    background: #ff4141;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.hero-right
+{
+    flex: 1;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+.button222
+{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 310px;
+    height: 70px;
+    border-radius: 75px;
+    margin-top: 30px;
+    background: #ff4141;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.button222
+ { 
+    font-size: 16px;
+    font-weight: 600;
+    width: 310px;
+    text-decoration: none; 
+    border: none; 
+    padding: 12px 40px; 
+    font-size: 16px; 
+    background-color:red; 
+    color: #fff; 
+    border-radius: 5px; 
+    box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24); 
+    cursor: pointer; 
+    outline: none; 
+    transition: 0.2s all; 
+    border-radius: 75px;
+} 
+/* Adding transformation when the button is active */ 
+ 
+.button222:active { 
+    transform: scale(0.91); 
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+} 

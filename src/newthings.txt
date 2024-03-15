@@ -1,0 +1,2 @@
+1.gradient css property[linear gradient]
+2.line-height->The line-height property in CSS is used to control the spacing between lines of text, both vertically and horizontally. It's a crucial property for improving the readability and overall aesthetics of your web pages. 

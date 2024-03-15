@@ -1,0 +1,2 @@
+1.display:grip i.e grid layout
+2.linegradient
