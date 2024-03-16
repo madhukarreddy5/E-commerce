@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/madhukarreddy5/E-commerce/static/css/main.441e3b18.css",
-    "main.js": "/madhukarreddy5/E-commerce/static/js/main.6a9fb55a.js",
+    "main.js": "/madhukarreddy5/E-commerce/static/js/main.84cc29cc.js",
     "static/js/453.fc7fb035.chunk.js": "/madhukarreddy5/E-commerce/static/js/453.fc7fb035.chunk.js",
     "static/media/banner_kids.png": "/madhukarreddy5/E-commerce/static/media/banner_kids.fff815a581793a7380fb.png",
     "static/media/banner_women.png": "/madhukarreddy5/E-commerce/static/media/banner_women.5a27fc4e4533e57e4676.png",
@@ -51,11 +51,11 @@
     "static/media/charanimg.jpg": "/madhukarreddy5/E-commerce/static/media/charanimg.c47bbdcfdaf06c206069.jpg",
     "index.html": "/madhukarreddy5/E-commerce/index.html",
     "main.441e3b18.css.map": "/madhukarreddy5/E-commerce/static/css/main.441e3b18.css.map",
-    "main.6a9fb55a.js.map": "/madhukarreddy5/E-commerce/static/js/main.6a9fb55a.js.map",
+    "main.84cc29cc.js.map": "/madhukarreddy5/E-commerce/static/js/main.84cc29cc.js.map",
     "453.fc7fb035.chunk.js.map": "/madhukarreddy5/E-commerce/static/js/453.fc7fb035.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.441e3b18.css",
-    "static/js/main.6a9fb55a.js"
+    "static/js/main.84cc29cc.js"
   ]
 }
