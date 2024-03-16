@@ -14,10 +14,10 @@ import kids_banner from './components/Asserts/banner_kids.png';
 function App() {
   return (
     <div>
-     <BrowserRouter basename="/madhukarreddy5/Madhukarreddys-E-commerce">
+     <BrowserRouter basename="/E-commerce">
       <Navbar/>
       <Routes>
-        <Route path='/' element={<LoginSignup />} /> {/* Fixed typo here */}
+        <Route path='/E-commerce' element={<LoginSignup />} /> {/* Fixed typo here */}
         <Route path='/Shop' element={<Shop />} />
         <Route path='/Men' element={<ShopCategory banner={men_banner} category="men" />} />
         <Route path='/Women' element={<ShopCategory banner={women_banner} category="women" />} />
